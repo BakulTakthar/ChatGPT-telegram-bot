@@ -39,3 +39,7 @@ def help_command(update, context):
     
     
 
+# test commit after ubuntu installation
+
+print("hello ubuntu")
+print("hello harsh")
